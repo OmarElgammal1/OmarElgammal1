@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Engineer
 -----------
 
-long description
+I’m passionate about Artificial Intelligence, Computer Vision, and Data Science. 
+
+I’ve worked with YOLOv8, TensorFlow, and other cutting-edge tools to build and deploy intelligent systems. You can find some of my practical work and experiments on [Kaggle](https://www.kaggle.com/omarelg).
+
+Currently, I’m diving deep into **Large Language Models** (LLMs) and expanding my skills with **PyTorch**.
+
+Feel free to explore my repositories and projects, and get in touch via [email](mailto:omarm.elgammal1@gmail.com) for AI hackathons or any project collaborations.
 
 
 
